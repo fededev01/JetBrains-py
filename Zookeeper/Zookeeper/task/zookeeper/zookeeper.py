@@ -1,1 +1,5 @@
-print("The title of Alice's Adventures in Wonderland is often shortened to Alice in Wonderland")
+print('''I do love animals!
+Start looking after animals...
+Deer looks fine.
+Bat looks happy.
+Lion looks healthy.''')
